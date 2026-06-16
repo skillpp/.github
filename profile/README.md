@@ -1,6 +1,8 @@
 # Skill++
 
-**Skill++ turns isolated AI skills into coordinated workflows for on-chain intelligence.**
+![Skill++ banner](https://raw.githubusercontent.com/skillpp/skillpp/main/assets/skillpp-banner.png)
+
+**Skill++ coordinates specialized AI skills into structured workflows for on-chain intelligence.**
 
 Skill++ is a protocol-first AI skill package for routing, sequencing, cross-checking, and guarding multi-agent Web3 workflows. It helps AI agents coordinate token research, wallet review, smart-contract audit, smart-money tracking, chain scanning, and write-operation handoff without treating every skill as an isolated tool.
 
